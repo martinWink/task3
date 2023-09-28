@@ -70,3 +70,11 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+/My project/Assets/Hovl Studio/*
+/My project/Assets/Real Stars Skybox/*
+/My project/Assets/Planet Earth Free/*
+/My project/Assets/Scenes/*
+/My project/Assets/Tomerinio/*
+#/My project/Assets/Treys/*
+/My project/Assets/Vefects/*
+/My project/Assets/Treys/*
